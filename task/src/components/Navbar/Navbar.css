@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.active{
+    color:  rgb(103, 109, 145) ;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    text-decoration: none;
+    margin-bottom: 0;
+   background-color: rgb(45, 50, 80);
+   padding-inline-start: 0;
+  
+}
+nav ul li{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 8px;
+}
+nav ul li a{
+    color: rgb(247, 247, 237);
+   font-family: Plus Jakarta Sans;
+   text-decoration: none;
+  
+ 
+  
+}
