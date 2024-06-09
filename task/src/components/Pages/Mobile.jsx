@@ -2,7 +2,7 @@ import React from 'react';
 
 function Mobile() {
     return (
-        <div style={{backgroundColor:" rgb(45, 50, 80)", height:"650px"}}>
+        <div style={{backgroundColor:" rgb(43,45,66)", height:"650px"}}>
             <div  style={{display:"flex"}}>
                 <div style={{padding:"90px", height:"200px"}}>
                     <h2 style={{ fontFamily: "sans-serif", color:"white" }}>Revolutionizing Mobile Accessory Market</h2>
